@@ -1,0 +1,1 @@
+zip -r lambda_codebase.zip . -x "*.git*" -x "*.idea*" -x "*venv*" -x "*.DS_Store*" -x "*config*" -x "*lambda_codebase*"
